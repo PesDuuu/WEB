@@ -57,7 +57,3 @@ exports.deleteProduct = async (req, res) => {
       res.status(500).json(err);
     }
 };
-
-
-$ git config --global user.name "John Doe"
-$ git config --global user.email johndoe@example.com
